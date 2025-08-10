@@ -31,4 +31,10 @@ It includes demographics, professional background, and career-related opinions.
 - Interactive visuals with filtering by **country, role, and experience**  
 - Insights on **salary ranges** and **job satisfaction levels**  
 - Comparison of **favorite programming languages**  
-- User-friendly design for quick trend exploration  
+- User-friendly design for quick trend exploration
+
+---
+
+## 📸 Dashboard Preview 
+![Dashboard]("C:\Users\ZGAME\Pictures\Screenshots\Capture d'écran 2025-08-10 201303.png")
+
