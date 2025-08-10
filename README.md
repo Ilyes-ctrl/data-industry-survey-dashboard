@@ -37,5 +37,5 @@ It includes demographics, professional background, and career-related opinions.
 
 ## 📸 Dashboard Preview 
 ![Dashboard](dashboardGitHub.png)
-**Provides an interactive analysis of survey data from data industry professionals, highlighting trends in salaries, job satisfaction, career entry challenges, and preferred programming languages.**
+*Provides an interactive analysis of survey data from data industry professionals, highlighting trends in salaries, job satisfaction, career entry challenges, and preferred programming languages.*
 
